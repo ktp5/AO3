@@ -1,9 +1,9 @@
 # **How to use Git!!!**
-## __Create a GITHUB account__
-## __Create a new repository__
-## __Create a file__
-## __Make a commit__
-## __Connect your github repo with your computer__
+## __1.)Create a GITHUB account__
+## __2.)Create a new repository__
+## __3.)Create a file__
+## __4.)Make a commit__
+## __5.)Connect your github repo with your computer__
 
 # **How to use Webstorm!!!**
 ##

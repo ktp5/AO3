@@ -8,9 +8,9 @@
 # **How to use Webstorm!!!**
 ## __1.)Download webstorm__ 
 ## __2.)Open a new project and open a new HTML file__
-## __3.)Write your code 
-## __4.)Merge your document 
-## __5.)Collaborate!
+## __3.)Write your code__ 
+## __4.)Merge your document__ 
+## __5.)Collaborate!__
 
 
 ## __GIT: Git, or Global Interface Table, is a software used to coordinate the code of workers' and track changes in source code__

@@ -1,7 +1,7 @@
 # **Git and Github tutorial!!!**
 ## __1.)Install Git and make a Github account: Install the latest version of Git and go to Github.com and sign up for the free access__
 ## __2.)Create a new repository. Using a terminal, you can use the terminal to move and navigate between the different projects__
-## __3.)Create a file: Using the git add command, you can add files __
+## __3.)Create a file: Using the git add command, you can add files__
 ## __4.)Make a commit: Using the command git commit make your first commit, or change to the document__
 ## __5.)Create a new branch: Using the command for branch, user will be allowed to connect documents together and work interchangeably__
 

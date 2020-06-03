@@ -1,5 +1,15 @@
-# **How to use github!!!**
+# **How to use Git!!!**
+## __Create a GITHUB account__
+## __Create a new repository__
+## __Create a file__
+## __Make a commit__
+## __Connect your github repo with your computer__
 
+# **How to use Webstorm!!!**
+##
+
+# **How to use Github!!!**
+##
 ## __GIT: Git, or Global Interface Table, is a software used to coordinate the code of workers' and track changes in source code__
 ## __GITHUB: GITHUB is a collaboration platform for software developers__
 ## __Repository:A repository is a place where code and projects are kept in order to make it as organized as possible__
